@@ -1,2 +1,2 @@
-# Standard-templates-of-Design-docs
+# Design-doc templates
 Contains detailed metadocuments of design and implementation docs 
